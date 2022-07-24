@@ -3,7 +3,6 @@
 ! author: nconder
 ! public: true
 ! avatar: #ff6600
-
 $discard
 $boost=4,site=naturalnews.com
 $boost=4,site=prepwithmike.com
