@@ -1,0 +1,61 @@
+! name: All Natural Health News / 1k short
+! description: Prioritizes domains popular with the Natural Health News community.
+! author: nconder
+! public: true
+! avatar: #ff6600
+
+$discard
+$boost=4,site=naturalnews.com
+$boost=4,site=prepwithmike.com
+$boost=4,site=brighteon.com/channels/hrreport
+$boost=4,site=Food.News
+$boost=4,site=Medicine.News
+$boost=4,site=Health.News
+$boost=4,site=Cancer.News
+$boost=4,site=Science.NaturalNews.com
+$boost=4,site=brighteon.com
+$boost=4,site=NaturalPedia.com
+$boost=4,site=HealingFoodReference.com
+$boost=4,site=HerbReference.com
+$boost=4,site=SupplementReference.com
+$boost=4,site=NutrientReference.com
+$boost=4,site=HonestFoodGuide.org
+$boost=4,site= Superfoods.news
+$boost=4,site=Grocery.news
+$boost=4,site=Ingredients.news
+$boost=4,site=FoodScience.news
+$boost=4,site=Nutrients.news
+$boost=4,site=Pesticides.news
+$boost=4,site=FoodSupply.news
+$boost=4,site=Monsanto.news
+$boost=4,site=Chocolate.news
+$boost=4,site=SupplementsReport.com
+$boost=4,site=NaturalMedicine.news
+$boost=4,site=Cures.news
+$boost=4,site=NaturalHealth.news
+$boost=4,site=WomensHealth.news
+$boost=4,site=NaturalCures.news
+$boost=4,site=Heart.news
+$boost=4,site=Cosmetics.news
+$boost=4,site=Slender.news
+$boost=4,site=BigPharmaNews.com
+$boost=4,site=Statins.news
+$boost=4,site=Oncology.news
+$boost=4,site=Vaccines.news
+$boost=4,site=HealthFreedom.news
+$boost=4,site=Superbugs.news
+$boost=4,site=Opioids.news
+$boost=4,site=Scientific.news
+$boost=4,site=FakeScience.news
+$boost=4,site=Chemistry.news
+$boost=4,site=Preparedness.news
+$boost=4,site=Gender.news
+$boost=4,site=HeavyMetals.news
+$boost=4,site=Abortions.news
+$boost=4,site=CDC.news
+$boost=4,site=PreventCancer.news
+$boost=4,site=Chemicals.news
+$boost=4,site=RealScienceNews.com
+$boost=4,site=ClimateAlarmism.news
+$boost=4,site=Environ.news
+$boost=4,site=ScienceClowns.com
