@@ -8,6 +8,7 @@ $discard
 $boost=4,site=naturalnews.com
 $boost=4,site=prepwithmike.com
 $boost=4,site=food.news
+$boost=4,site=newstarget.com
 $boost=4,site=medicine.news
 $boost=4,site=health.news
 $boost=4,site=cancer.news
