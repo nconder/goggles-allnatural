@@ -7,20 +7,19 @@
 $discard
 $boost=4,site=naturalnews.com
 $boost=4,site=prepwithmike.com
-$boost=4,site=brighteon.com/channels/hrreport
+$boost=4,site=brighteon.com
 $boost=4,site=Food.News
 $boost=4,site=Medicine.News
 $boost=4,site=Health.News
 $boost=4,site=Cancer.News
 $boost=4,site=Science.NaturalNews.com
-$boost=4,site=brighteon.com
 $boost=4,site=NaturalPedia.com
 $boost=4,site=HealingFoodReference.com
 $boost=4,site=HerbReference.com
 $boost=4,site=SupplementReference.com
 $boost=4,site=NutrientReference.com
 $boost=4,site=HonestFoodGuide.org
-$boost=4,site= Superfoods.news
+$boost=4,site=Superfoods.news
 $boost=4,site=Grocery.news
 $boost=4,site=Ingredients.news
 $boost=4,site=FoodScience.news
